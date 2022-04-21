@@ -25,8 +25,6 @@
     砖：1，草：2，沙子：3，删除建筑：鼠标左键单击，创建建筑块：鼠标右键单击
 
     ESC退出程序。
-
-
-#### 特技
-1.  我的github个人主页[https://github.com/leaovo-man](https://github.com/leaovo-man)
-2.  我的gitee个人主页[https://github.com/leaovo-man](https://github.com/leaovo-man)
+4.  gitee里也有此项目[点这里](https://gitee.com/lenovo-man/minecraft)
+3.  我的github个人主页[https://github.com/leaovo-man](https://github.com/leaovo-man)
+3.  我的gitee个人主页[https://github.com/leaovo-man](https://github.com/leaovo-man)
