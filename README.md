@@ -27,4 +27,4 @@
     ESC退出程序。
 4.  gitee里也有此项目[点这里](https://gitee.com/lenovo-man/minecraft)
 3.  我的github个人主页[https://github.com/leaovo-man2](https://github.com/leaovo-man2)
-3.  我的gitee个人主页[https://github.com/leaovo-man](https://gitee.com/leaovo-man)
+3.  我的gitee个人主页[https://gitee.com/lenovo-man](https://gitee.com/lenovo-man)
