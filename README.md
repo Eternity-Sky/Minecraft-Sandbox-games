@@ -26,6 +26,10 @@
 
     ESC退出程序。
 4.  如果出现错误提示：
+   
  `NameError: name 'GL_FOG' is not defined`
+
 请降级你的Pyglet模块至1.5.27版本
+
 `pip install pyglet==1.5.27`
+
