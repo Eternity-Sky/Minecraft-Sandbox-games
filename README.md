@@ -1,7 +1,7 @@
 # Minecraft
 
 #### 介绍
-我的世界
+一款仿制我的世界的沙盒游戏
 
 #### 软件架构
 软件架构说明
@@ -9,7 +9,7 @@
 
 #### 运行截图
 
-1.  截图 [点这里](https://img.jbzj.com/file_images/article/202111/2021110909230214.jpg)
+![img](https://img.jbzj.com/file_images/article/202111/2021110909230214.jpg)
 
 #### 使用说明
 
