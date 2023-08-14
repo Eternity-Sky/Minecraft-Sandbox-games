@@ -25,6 +25,7 @@
     砖：1，草：2，沙子：3，删除建筑：鼠标左键单击，创建建筑块：鼠标右键单击
 
     ESC退出程序。
-4.  gitee里也有此项目[点这里](https://gitee.com/lenovo-man/minecraft)
-3.  我的github个人主页[https://github.com/leaovo-man2](https://github.com/leaovo-man2)
-3.  我的gitee个人主页[https://gitee.com/lenovo-man](https://gitee.com/lenovo-man)
+4.  如果出现错误提示：
+ `NameError: name 'GL_FOG' is not defined`
+请降级你的Pyglet模块至1.5.27版本
+`pip install pyglet==1.5.27`
