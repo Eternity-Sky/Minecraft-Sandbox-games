@@ -29,7 +29,5 @@
    
  `NameError: name 'GL_FOG' is not defined`
 
-请降级你的Pyglet模块至1.5.27版本
-
-`pip install pyglet==1.5.27`
+请运行Releases附件`Bug_fixes.bat`
 
