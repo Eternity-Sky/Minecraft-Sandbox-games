@@ -26,4 +26,5 @@
  `NameError: name 'GL_FOG' is not defined`
 
 请运行Releases附件`Bug_fixes.bat`
+5.  移动时如果不受控制，请尝试切换输入法。
 
