@@ -1,12 +1,9 @@
 # Minecraft
 
-#### 介绍
+
 <img src="https://img.shields.io/github/license/Leaovo-man2/Minecraft-Sandbox-games"/> <img src="https://img.shields.io/github/repo-size/Leaovo-man2/Minecraft-Sandbox-games"/> <img src="https://img.shields.io/github/last-commit/Leaovo-man2/Minecraft-Sandbox-games"/> <img src="https://img.shields.io/badge/language-python-3572A5.svg"/>
 
 
-
-
-Minecraft is a sandbox game where players can explore and create their own virtual worlds. In this open-ended game, players have the freedom to gather resources, build structures, and engage in various activities such as farming, mining, and crafting. With its block-based graphics and endless possibilities, Minecraft offers a unique and immersive gameplay experience. Whether playing alone or with friends, players can embark on adventures, discover hidden treasures, and unleash their creativity to build elaborate structures or even entire cities. The game also features different modes, including survival mode where players must manage resources and defend against enemies, and creative mode where the focus is on unlimited building and exploration. With its vast community and extensive modding support, Minecraft has become a global phenomenon, captivating players of all ages and inspiring countless creations and adventures.
 
 #### 运行截图
 
