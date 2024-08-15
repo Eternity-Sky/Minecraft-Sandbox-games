@@ -41,7 +41,7 @@
 ## 常见问题
 - 错误提示：`NameError: name 'GL_FOG' is not defined`
 
-    解决方法：请运行 Releases 附件中的 Bug_fixes.bat 文件。
+    该库不受支持，我们正在改进
 
 - 移动时不受控制
 
